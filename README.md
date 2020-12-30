@@ -1,7 +1,7 @@
 # yocto-core-image-kernel-dev
-A x86_64 Linux CLI build, setup for Development
+A genericx86-64 Linux CLI build, setup for Development
 
-This build is Linux 5.8 x86_64 CLI only with Dev tools that allow for cloning git repos and building code.
+This build is Linux 5.8 genericx86-64 CLI only with Dev tools that allow for cloning git repos and building code.
 
 Build command:
 ```bash
